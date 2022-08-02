@@ -2,7 +2,8 @@
 This website is built with React with Movie Api.
 API_Link : (https://www.omdbapi.com/)
 
-# Live Website Link : (blockbusterhub.netlify.app)
+# Live Website Link :
+LINK --> (blockbusterhub.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
