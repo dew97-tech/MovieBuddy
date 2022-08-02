@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+This website is built with React with Movie Api.
+API_Link : (https://www.omdbapi.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
